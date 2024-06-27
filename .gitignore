@@ -1,7 +1,7 @@
     .DS_Store
     migrations
     .idea
-    .env
+    .venv
     *.pyc
     __pycache__
     
